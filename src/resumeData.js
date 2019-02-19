@@ -60,13 +60,13 @@ let resumeData = {
         "name":"Pokedocs",
         "description":"Pokedox a Pokemon document built in Reactjs using Redux ",
         "imgurl":"images/portfolio/pokeball.png",
-        "link": "https://github.com/piyu0809/Pokedocs"
+        "link": "https://piyu0809.github.io/Pokedocs/"
       },
       {
         "name":"ChatAll",
         "description":"ChatApp in Reactjs and chatkit api",
         "imgurl":"images/portfolio/chatapp.png",
-        "link":"https://github.com/piyu0809/ChatAll"
+        "link":"https://piyu0809.github.io/ChatAll/"
       },
       {
         "name":"TaptoFlash",
@@ -78,7 +78,7 @@ let resumeData = {
         "name":"GitMeAProfile",
         "description":"GITHUB Profile Searcher",
         "imgurl":"images/portfolio/gitt.png",
-        "link":"https://github.com/piyu0809/GitMeAProfile"
+        "link":"https://piyu0809.github.io/GitMeAProfile/"
       }
     ],
     "testimonials":[
