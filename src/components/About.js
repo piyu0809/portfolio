@@ -51,7 +51,7 @@ export default class About extends Component {
                   </p>
 
                   </div>
-                  <a className = "resume" href = "images/resume.pdf" target="_blank">Checkout My Resume</a>
+                  <a className = "resume" href = "docs/resume.pdf" target="_blank">Checkout My Resume</a>
                </div>
             </div>
          </div>
