@@ -58,26 +58,33 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 140px/1.1em 'opensans-bold', sans-serif;
+   font: 100px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 10px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
+h1, h2, h3, h4, h5, h6{
+  line-height: 50px;
+}
 header .banner-text h2 {
-   font: 32px/1.4em 'librebaskerville-regular', serif;
-
-   font-style: italic;
+   font: 40px/1.4em 'librebaskerville-regular', serif;
+   word-spacing: 8px;
    font-weight: bold;
-   color: #A8A8A8;
+   color: #fff;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 
 }
+header .h3 {
+  word-spacing: 3px;
+
+}
 header .banner-text h3 span,
 header .banner-text h3 a {
    color: #fff;
+
 }
 header .banner-text hr {
    width: 60%;
@@ -203,7 +210,7 @@ ul#nav li.current a { color: #F06000; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2{
-   font: 24px/32px 'opensans-bold', sans-serif;
+   font: 26px/34px 'opensans-bold', sans-serif;
    font-weight: bolder;
    color: #1e272e;
    margin-bottom: 12px;
@@ -218,7 +225,7 @@ ul#nav li.current a { color: #F06000; }
 #about p {
    line-height: 30px;
    color: #000000;
-   font-weight: 300;
+   font-weight: 350;
    margin-bottom: 12px;
    font-size: 19px;
 }
