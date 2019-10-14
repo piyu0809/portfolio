@@ -361,17 +361,13 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
-.css {
-  	width: 60%;
+.aws {
+  	width: 50%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.html5 {
-  	width: 60%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
-}
-.reactjs {
+
+.react {
   	width: 50%;
   	-moz-animation: reactjs 2s ease;
   	-webkit-animation: reactjs 2s ease;
@@ -382,12 +378,12 @@ ul#nav li.current a { color: #F06000; }
   -webkit-animation: javascript_es6 2s ease;
 }
 .java{
-  width: 60%;
+  width: 70%;
   -moz-animation: java 2s ease;
   -webkit-animation: java 2s ease;
 }
 .cpp{
-  width: 50%;
+  width: 40%;
   -moz-animation: cpp 2s ease;
   -webkit-animation: cpp 2s ease;
 }
