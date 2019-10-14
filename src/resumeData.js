@@ -1,6 +1,6 @@
 let resumeData = {
   //  "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Priyanka Hiremath",
+    "name": "Priyanka",
     "role": "Frontend Developer",
     "linkedinId":"https://www.linkedin.com/in/priyanka-hiremath-8728b9b0/",
     "skypeid": "Your skypeid",
@@ -57,10 +57,10 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"Pokedocs",
-        "description":"Pokedox a Pokemon document built in Reactjs using Redux ",
-        "imgurl":"images/portfolio/pokeball.png",
-        "link": "https://piyu0809.github.io/Pokedocs/"
+        "name":"Mr Akountant",
+        "description":"A google assistant to track your personal expenses",
+        "imgurl":"images/portfolio/expense.jpg",
+        "link": "https://www.youtube.com/watch?v=y9J4cQ_F8Og"
       },
       {
         "name":"ChatAll",
@@ -69,17 +69,36 @@ let resumeData = {
         "link":"https://piyu0809.github.io/ChatAll/"
       },
       {
-        "name":"TaptoFlash",
-        "description":"Android Sensor App(Flashlight) ",
-        "imgurl":"images/portfolio/torch1.png",
-        "link":"https://github.com/piyu0809/Android-Sensor-App"
+        "name":"Lazy Caption",
+        "description":"Get perfect caption for your image",
+        "imgurl":"images/portfolio/lazy2.jpg",
+        "link":"https://github.com/piyu0809/LazyCaptions"
       },
       {
         "name":"GitMeAProfile",
         "description":"GITHUB Profile Searcher",
         "imgurl":"images/portfolio/gitt.png",
         "link":"https://piyu0809.github.io/GitMeAProfile/"
+      },
+      {
+        "name":"Slack_Notification",
+        "description":"",
+        "imgurl":"images/portfolio/amazon_sns.png",
+        "link":"https://github.com/piyu0809/Slack_Notification"
+      },
+      {
+        "name":"TapToFlash",
+        "description":"",
+        "imgurl":"images/portfolio/torch1.png",
+        "link":"https://github.com/piyu0809/Slack_Notification"
+      },
+      {
+        "name":"Retail Business Management System",
+        "description":"",
+        "imgurl":"images/portfolio/Oracle-PL-SQL.jpg",
+        "link":"https://github.com/piyu0809/Slack_Notification"
       }
+
     ],
     "testimonials":[
       {
