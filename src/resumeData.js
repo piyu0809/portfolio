@@ -24,9 +24,15 @@ let resumeData = {
     "education":[
       {
         "UniversityName":"State Univarsity of New York at Binghamton",
-        "specialization":"Computer Science",
+        "specialization":"MS in Computer Science",
         "MonthOfPassing":"May",
         "YearOfPassing":"2019"
+      },
+      {
+        "UniversityName":"University of Pune (Mksss's Cummins College of Engineering for Women)",
+        "specialization":"BE in Computer Science",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2016"
       }
 
     ],
@@ -34,19 +40,16 @@ let resumeData = {
     "skillsDescription":"HTML5, CSS3, React.js, Javascript(ES6), Java, C++, MySql",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Java"
       },
       {
-        "skillname":"CSS"
+        "skillname":"AWS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"React"
       },
       {
         "skillname":"Javascript_ES6"
-      },
-      {
-        "skillname":"Java"
       },
       {
         "skillname":"Cpp"
@@ -90,13 +93,13 @@ let resumeData = {
         "name":"TapToFlash",
         "description":"",
         "imgurl":"images/portfolio/torch1.png",
-        "link":"https://github.com/piyu0809/Slack_Notification"
+        "link":"https://github.com/piyu0809/Android-Sensor-App"
       },
       {
         "name":"Retail Business Management System",
         "description":"",
         "imgurl":"images/portfolio/Oracle-PL-SQL.jpg",
-        "link":"https://github.com/piyu0809/Slack_Notification"
+        "link":"https://github.com/piyu0809/Retail-Business-Management-System"
       }
 
     ],
